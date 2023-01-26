@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>IMG_E1214.jpg</filename>
+	<path>E:\code\PythonProject\faster_rcnn\VOCdevkit\federn_daunen\JPEGImages\IMG_E1214.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1778</width>
+		<height>2626</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>federn</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>581</xmin>
+			<ymin>796</ymin>
+			<xmax>992</xmax>
+			<ymax>1355</ymax>
+		</bndbox>
+	</object>
+</annotation>
